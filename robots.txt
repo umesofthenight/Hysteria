@@ -1,0 +1,4 @@
+# Private review version. This file is not an access-control mechanism.
+# For an approved public launch, change to Disallow: and remove page noindex tags.
+User-agent: *
+Disallow: /
